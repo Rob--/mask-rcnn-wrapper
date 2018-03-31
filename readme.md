@@ -1,7 +1,7 @@
 # mask-rcnn-wrapper
 
 This project provides a simple GUI wrapper around the [Mask R-CNN](https://github.com/matterport/Mask_RCNN) implementation
-by [matterport](matterport).
+by [matterport](https://github.com/matterport).
 
 ![Instance Segmentation Sample](assets/app.png)
 
